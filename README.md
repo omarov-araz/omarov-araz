@@ -77,7 +77,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   </a>
   <!-- GMail  -->
   <a href="arazomarov@proton.me" target="_blank">
-    <img width="77px" 
+    <img width="65px" 
           src="https://img.shields.io/badge/Mail-FF0000?style=for-the-badge&logo=mail&logoColor=white" 
           alt="E-mail"
           title="My E-mail"/>
