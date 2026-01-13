@@ -9,6 +9,15 @@ I am learn cyberseciurty.
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/protonmail.svg"
        alt="Email" width="40" height="40"/>
 
+<a href="https://www.pinterest.com/mambavayne/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinterest.svg"
+       alt="Pinterest" width="40" height="40"/>
+</a>
+
+<a href="https://t.me/justcobain" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg"
+       alt="Telegram" width="40" height="40"/>
+</a>
 
 
   
