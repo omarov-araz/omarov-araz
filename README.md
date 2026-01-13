@@ -69,9 +69,9 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
           title="My Pinterest"/>
   </a>
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
+  <a href="https://t.me/justcobain" target="_blank">
     <img width="100px" 
-          src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
+          src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=Telegram&logoColor=white" 
           alt="Linkedin"
           title="My Linkedin"/>
   </a>
