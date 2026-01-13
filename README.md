@@ -70,7 +70,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   </a>
   <!-- Linkedin -->
   <a href="https://t.me/justcobain" target="_blank">
-    <img width="110px" 
+    <img width="120px" 
           src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=Telegram&logoColor=white" 
           alt="Linkedin"
           title="My Linkedin"/>
