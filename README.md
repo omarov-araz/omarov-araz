@@ -6,18 +6,17 @@ I am learn cyberseciurty.
 
 #### Social Media
 <a href="mailto:arazomarov@proton.me">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/protonmail.svg"
-       width="40" height="40"
-       style="filter: invert(45%) sepia(85%) saturate(600%) hue-rotate(200deg);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/protonmail.svg"
+       width="40" height="40" />
 </a>
 
 <a href="https://www.pinterest.com/mambavayne/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinterest/pinterest-original.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinterest/pinterest-original.svg"
        width="40" height="40" />
 </a>
 
 <a href="https://t.me/justcobain" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg"
        width="40" height="40" />
 </a>
 
