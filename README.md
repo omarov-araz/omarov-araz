@@ -76,9 +76,9 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
           title="My Linkedin"/>
   </a>
   <!-- GMail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson.dev@gmail.com" target="_blank">
+  <a href="arazomarov@proton.me" target="_blank">
     <img width="97px" 
-          src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
+          src="https://img.shields.io/badge/Mail-FF0000?style=for-the-badge&logo=mail&logoColor=white" 
           alt="E-mail"
           title="My E-mail"/>
   </a>
