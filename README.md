@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Araz Omarov</h1>
 <h3 align="center">Who am I ?</h3>
+I am Araz Omarov. I was born Azerbaijan in Baku. I learn CyberSecurity. I believe in myself on this path. Before, I was engaged in creating a web page. But later I got tired of this work and realized that it did not concern me. Now I am happy with cybersecurity.
+
+
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/araz-omarov-b06674399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="araz-omarov-b06674399" height="30" width="40" /></a><a href="https://www.youtube.com/c/@araz-omarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="@araz-omarov" height="30" width="40" /></a><a href="https://instagram.com/21.omarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="21.omarov" height="30" width="40" /></a></p>
