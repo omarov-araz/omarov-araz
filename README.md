@@ -14,7 +14,6 @@ I believe in myself on this path.
 </div>
 
 </br>
-</br>
   <!-- Pinterest -->
   <a href="https://www.pinterest.com/mambavayne/" target="_blank">
     <img width="130px" 
@@ -22,21 +21,16 @@ I believe in myself on this path.
           alt="Pinterest"
           title="My Pinterest"/>
   </a>
-  <!-- Linkedin -->
   <a href="https://t.me/justcobain" target="_blank">
     <img width="125px" 
           src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=Telegram&logoColor=white" 
           alt="Linkedin"
           title="My Linkedin"/>
   </a>
-  <!-- GMail  -->
   <a href="arazomarov@proton.me" target="_blank">
     <img width="65px" 
           src="https://img.shields.io/badge/Mail-FF0000?style=for-the-badge&logo=mail&logoColor=white" 
           alt="E-mail"
           title="My E-mail"/>
   </a>
-
 </div>
-</br>
-
