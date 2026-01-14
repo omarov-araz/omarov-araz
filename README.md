@@ -2,12 +2,14 @@
 <img src="https://media.tenor.com/9U1lmb6AjdQAAAAi/dark-vader-dark.gif" width=390 align="left">
 <div align="center">
 
-**Who Am I?**
+**Who Am I ?**
 </div>
 
 <div align="justify">
 
-I am **Araz Omarov** and I was born **Azerbaijan**. I learn a **cyberseciurty**. I believe in myself on this path. 
+I am **Araz Omarov** and I was born **Azerbaijan**.
+I learn a **cyberseciurty**.
+I believe in myself on this path. 
 
 </div>
 
