@@ -15,12 +15,6 @@ I believe in myself on this path.
 
 </br>
 </br>
-
-<!-- badges -->
-<div align="center">
-  <strong>You can Click here</strong>
-  </br>
-
   <!-- Pinterest -->
   <a href="https://www.pinterest.com/mambavayne/" target="_blank">
     <img width="130px" 
