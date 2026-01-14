@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Araz Omarov</h1>
 <h3 align="center">Who am I ?</h3>
-I am Araz Omarov.  
-I was born Azerbaijan in Baku.  
-I learn CyberSecurity.  
-I believe in myself on this path.  
-Before, I was engaged in creating a web page.  
-But later I got tired of this work and realized that it did not concern me.  
-Now I am happy with cybersecurity.  
+
+Hi, I’m Araz Omarov.
+I was born in Baku, Azerbaijan.
+
+I am currently learning Cybersecurity and I strongly believe in myself on this path.
+Previously, I was involved in web development, but over time I realized that it wasn’t the right direction for me.
+
+Now, I am fully focused on cybersecurity and truly enjoy this field. I am motivated to continuously learn, improve my skills, and grow as a cybersecurity professional.
 
 
 </div><h3 align="left">Connect with me:</h3>
