@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Araz Omarov</h1>
 <h3 align="center">Who am I ?</h3>
-I am Araz Omarov.
-I was born Azerbaijan in Baku.
-I learn CyberSecurity.
-I believe in myself on this path.
-Before, I was engaged in creating a web page.
-But later I got tired of this work and realized that it did not concern me.
-Now I am happy with cybersecurity.
+I am Araz Omarov.  
+I was born Azerbaijan in Baku.  
+I learn CyberSecurity.  
+I believe in myself on this path.  
+Before, I was engaged in creating a web page.  
+But later I got tired of this work and realized that it did not concern me.  
+Now I am happy with cybersecurity.  
 
 
 </div><h3 align="left">Connect with me:</h3>
